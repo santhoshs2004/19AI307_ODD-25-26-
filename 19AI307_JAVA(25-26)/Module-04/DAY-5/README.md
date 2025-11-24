@@ -1,4 +1,4 @@
-# Ex.No:4(D) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
+# Ex.No:4(E) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
 
 ## QUESTION:
 Design a program where a Product model stores item info, and the view displays it. Implement a controller to update product price and refresh the view automatically.
@@ -133,4 +133,5 @@ public class Main {
 
 ## RESULT:
 The MVC architecture was successfully implemented. The controller updated product prices and the view automatically refreshed to display changes, demonstrating proper separation of concerns and observer pattern functionality.
+
 
