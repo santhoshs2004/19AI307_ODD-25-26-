@@ -20,8 +20,8 @@ To create a Calculator class with both non-static and static methods and demonst
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: Santhosh S
-RegisterNumber:  212222220039
+Developed by: Mohan Kumar P
+RegisterNumber:  212222220026
 */
 ```
 
